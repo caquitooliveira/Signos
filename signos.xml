@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+  <signo>
+    <nome>Áries</nome>
+    <inicio>21-03</inicio>
+    <fim>20-04</fim>
+    <descricao>Pessoas de Áries são líderes natos, cheias de energia e entusiasmo.</descricao>
+    <imagem>♈</imagem>
+  </signo>
+  <signo>
+    <nome>Touro</nome>
+    <inicio>21-04</inicio>
+    <fim>20-05</fim>
+    <descricao>Taurinos são determinados, práticos e apreciam segurança e conforto.</descricao>
+    <imagem>♉</imagem>
+  </signo>
+  <signo>
+    <nome>Gêmeos</nome>
+    <inicio>21-05</inicio>
+    <fim>20-06</fim>
+    <descricao>Geminianos são comunicativos, curiosos e adaptáveis.</descricao>
+    <imagem>♊</imagem>
+  </signo>
+  <signo>
+    <nome>Câncer</nome>
+    <inicio>21-06</inicio>
+    <fim>22-07</fim>
+    <descricao>Cancerianos são sensíveis, intuitivos e muito ligados à família.</descricao>
+    <imagem>♋</imagem>
+  </signo>
+  <signo>
+    <nome>Leão</nome>
+    <inicio>23-07</inicio>
+    <fim>22-08</fim>
+    <descricao>Leoninos são confiantes, carismáticos e gostam de estar no centro das atenções.</descricao>
+    <imagem>♌</imagem>
+  </signo>
+  <signo>
+    <nome>Virgem</nome>
+    <inicio>23-08</inicio>
+    <fim>22-09</fim>
+    <descricao>Virginianos são organizados, detalhistas e muito dedicados.</descricao>
+    <imagem>♍</imagem>
+  </signo>
+  <signo>
+    <nome>Libra</nome>
+    <inicio>23-09</inicio>
+    <fim>22-10</fim>
+    <descricao>Librianos são equilibrados, sociáveis e valorizam a harmonia.</descricao>
+    <imagem>♎</imagem>
+  </signo>
+  <signo>
+    <nome>Escorpião</nome>
+    <inicio>23-10</inicio>
+    <fim>21-11</fim>
+    <descricao>Escorpianos são intensos, apaixonados e determinados.</descricao>
+    <imagem>♏</imagem>
+  </signo>
+  <signo>
+    <nome>Sagitário</nome>
+    <inicio>22-11</inicio>
+    <fim>21-12</fim>
+    <descricao>Sagitarianos são aventureiros, otimistas e amam a liberdade.</descricao>
+    <imagem>♐</imagem>
+  </signo>
+  <signo>
+    <nome>Capricórnio</nome>
+    <inicio>22-12</inicio>
+    <fim>20-01</fim>
+    <descricao>Capricornianos são disciplinados, responsáveis e persistentes.</descricao>
+    <imagem>♑</imagem>
+  </signo>
+  <signo>
+    <nome>Aquário</nome>
+    <inicio>21-01</inicio>
+    <fim>19-02</fim>
+    <descricao>Aquarianos são criativos, independentes e visionários.</descricao>
+    <imagem>♒</imagem>
+  </signo>
+  <signo>
+    <nome>Peixes</nome>
+    <inicio>20-02</inicio>
+    <fim>20-03</fim>
+    <descricao>Piscianos são sensíveis, sonhadores e muito empáticos.</descricao>
+    <imagem>♓</imagem>
+  </signo>
+</signos>

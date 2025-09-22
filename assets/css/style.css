@@ -1,0 +1,72 @@
+/* Cor de fundo suave */
+body {
+  background-color: #f0f2f5;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Centraliza e estiliza o card */
+.card {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Títulos */
+h2 {
+  color: #343a40;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+/* Descrição */
+p {
+  font-size: 1.1rem;
+  color: #555555;
+  line-height: 1.6;
+  margin-top: 20px;
+}
+
+/* Emojis dos signos */
+.emoji-signo {
+  font-size: 5rem;
+  margin: 20px 0;
+}
+
+/* Botão do formulário */
+button {
+  padding: 10px 25px;
+  font-size: 1.1rem;
+  border-radius: 8px;
+  transition: all 0.3s;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .card {
+    margin: 20px;
+    padding: 20px;
+  }
+
+  .emoji-signo {
+    font-size: 4rem;
+  }
+
+  button {
+    width: 100%;
+  }
+}
